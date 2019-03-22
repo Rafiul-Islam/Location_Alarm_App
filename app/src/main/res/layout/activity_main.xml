@@ -17,6 +17,7 @@
         android:textSize="19sp"
         android:textAllCaps="true"
         android:background="@drawable/mybutton"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
         />
 
     <Button
@@ -28,6 +29,8 @@
         android:layout_marginTop="20dp"
         android:textAllCaps="true"
         android:background="@drawable/mybutton"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+
         />
 
     <Button
@@ -39,6 +42,8 @@
         android:layout_marginTop="20dp"
         android:textAllCaps="true"
         android:background="@drawable/mybutton"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+
         />
 
     <Button
@@ -50,6 +55,8 @@
         android:layout_marginTop="20dp"
         android:textAllCaps="true"
         android:background="@drawable/mybutton"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+
         />
 
     <Button
@@ -61,6 +68,8 @@
         android:layout_marginTop="20dp"
         android:textAllCaps="true"
         android:background="@drawable/mybutton"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+
         />
 
 </LinearLayout>
