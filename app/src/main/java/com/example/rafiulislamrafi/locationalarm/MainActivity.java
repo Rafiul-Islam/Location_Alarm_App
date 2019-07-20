@@ -10,6 +10,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 
+
 public class MainActivity extends Activity {
 
     Button add_task_button, start_task_button, end_task_button, task_button, find_button;
